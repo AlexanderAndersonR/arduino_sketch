@@ -1,0 +1,17 @@
+connect sd card for arduino mega 
+D53 -> CS, 
+D51 -> MOSI, 
+D50 -> MISO, 
+D52 -> SCLK,
+for arduino uno 
+D10 -> CS, 
+D11 -> MOSI, 
+D12 -> MISO, 
+D13 -> SCLK, 
+
+connect jy901 inclinometer
+RX -> TX18
+TX -> RX19
+
+gps connection in inclinometer
+gps tx-> inclinometer D1 
